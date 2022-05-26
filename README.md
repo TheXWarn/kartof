@@ -16,7 +16,7 @@
 ### Very Simple Method.
 **Android:** Open the [Termux](https://t.me/neonsup/99354) and paste this code: `bash <(curl -L https://bit.ly/3scL0mk)`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xtq067/kartof)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thexwarn/kartof)
 ### Hard Method.
 ```python
 git clone https://github.com/xtq067/kartof.git
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 python3 main.py
 ```
 ### Online method.
-[![Repl.it](https://repl.it/badge/github/xtq067/xiyar)](https://repl.it/github/xtq067/xiyar)
+[![Repl.it](https://repl.it/badge/github/thexwarn/xiyar)](https://repl.it/github/thexwarn/xiyar)
 
 
 ## Inform. ❗️
