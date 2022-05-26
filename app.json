@@ -1,7 +1,7 @@
 {
   "name": "N Σ O N",
   "description": "N Σ O N is a bot that makes it easy for you to use Telegram. It is completely open source and free.",
-  "logo": "https://github.com/XTQ067/kartof/raw/master/userbot/neon.jpg",
+  "logo": "https://github.com/thexwarn/kartof/raw/master/userbot/neon.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -10,7 +10,7 @@
     "modul",
     "productivity"
   ],
-  "repository": "https://github.com/XTQ067/kartof",
+  "repository": "https://github.com/thexwarn/kartof",
   "website":   "",
   "success_url": "https://t.me/NeonUserBot",
   "stack": "container",
